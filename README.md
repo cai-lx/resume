@@ -10,8 +10,7 @@ This is my resume. I'm looking for a PhD position in the field of physics and wi
 - **Email:** [cailx@mail.ustc.edu.cn](mailto:cailx@mail.ustc.edu.cn)
 - **Phone:** +86 17520178650
 - **Location:** Hefei, China
-- **GitHub:** [your-username](https://github.com/your-username)
-- **LinkedIn:** [your-linkedin](https://linkedin.com/in/your-profile)
+- **GitHub:** [cai-lx](https://github.com/cai-lx)
 
 ---
 
@@ -23,7 +22,7 @@ This is my resume. I'm looking for a PhD position in the field of physics and wi
 
 ### **Anhui Normal University**
 *Bachelor of Science in Physics (Education)* | *Sept 2021 – Jun 2025*
-- **GPA:** 4.39/5.0 (Major) | **Rank:** 1/169
+- **GPA:** 4.39/5.0 (Major) 
 - **Relevant Coursework:** Quantum Mechanics (100), Electrodynamics (98), Theoretical Mechanics (99), Thermodynamics & Statistical Physics (97), Mathematical Physics (97), Probability & Statistics (97), C Programming (97)
 
 ---
