@@ -23,7 +23,9 @@ This is my resume. I'm looking for a PhD position in the field of physics and wi
 ### **Anhui Normal University**
 *Bachelor of Science in Physics (Education)* | *Sept 2021 – Jun 2025*
 - **GPA:** 4.39/5.0 (Major) 
-- **Relevant Coursework:** Quantum Mechanics (100), Electrodynamics (98), Theoretical Mechanics (99), Thermodynamics & Statistical Physics (97), Mathematical Physics (97), Probability & Statistics (97), C Programming (97)
+- **Relevant Coursework:** **Major Courses:**  
+Advanced Mathematics I (100), Advanced Mathematics II (98), Linear Algebra (100), Quantum Mechanics (100), Electrodynamics (98), Theoretical Mechanics (99), Thermodynamics and Statistical Physics (97), Mechanics (98), Thermal Physics (98), Optics (94), Electromagnetism (97), Atomic Physics (97), Mathematical Methods in Physics (97), Probability Theory and Mathematical Statistics (97)，
+Fundamentals of Electrical Engineering (98), General Physics Experiment I (95), General Physics Experiment II (92), General Physics Experiment III (93), Modern Physics Experiment (93), C Programming Language (97).
 
 ---
 
@@ -32,13 +34,13 @@ This is my resume. I'm looking for a PhD position in the field of physics and wi
 ### **Machine Learning in Ion Trap Optimization**
 *Independent Research Project* | *2024–2025*
 - Developed ML algorithms to optimize ion trap geometry and electrode voltages
-- Improved ion capture efficiency by ~30% and enhanced collimation of cold ion sources
+- Improved ion capture efficiency and enhanced collimation of cold ion sources
 - Implemented Python-based simulation and optimization pipeline
 
 ### **Experimental Optics: Michelson Interferometer Enhancement**
 *First-Author Publication in "College Physics"* | *2023–2024*
 - Investigated dual-lens system effects on wavelength measurement accuracy
-- Proposed and validated optical path optimization, improving precision by 15%
+- Proposed and validated optical path optimization
 - Designed and executed systematic experimental verification
 
 ### **Instrument Control & Automation Development**
